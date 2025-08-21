@@ -32,6 +32,8 @@ if (app.Environment.IsDevelopment())
     app.UseSwaggerUI();
 }
 
+
+//A SEQUÊNCIA IMPORTA MUITO!! CUIDADO!!!!!
 app.UseHttpsRedirection();
 
 app.UseStaticFiles();
