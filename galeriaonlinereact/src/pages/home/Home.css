@@ -1,0 +1,19 @@
+.telaHome{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    text-align: center;
+    height: 100vh;
+
+}
+.titulos{
+    color: #577c8e;
+    font-size: 30px;
+}
+.titulos button{
+    margin-top: 20px;
+    width: 250px;
+    cursor: pointer;
+}

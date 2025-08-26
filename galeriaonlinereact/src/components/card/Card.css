@@ -22,3 +22,7 @@
     height: 180px;
     object-fit: cover;
 }
+
+.icons{
+    cursor: pointer;
+}
